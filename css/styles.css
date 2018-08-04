@@ -1,0 +1,32 @@
+.profile {
+  color: #8d6968;
+  font-size: 20px;
+  font-family: cursive;
+}
+.education {
+  color: #310100;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: fantasy;
+}
+.experience {
+  color: #a90500;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.passion {
+  color: #f58200;
+  font-weight: bolder;
+  font-style: italic;
+}
+.moringa {
+  color: #f58200;
+  font-weight: bolder;
+  font-style: italic;
+}
+.skill {
+  color: #f58200;
+  font-weight: bolder;
+  font-style: italic;
+}
