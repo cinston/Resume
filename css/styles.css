@@ -30,3 +30,6 @@
   font-weight: bolder;
   font-style: italic;
 }
+img {
+  float: left;
+}
